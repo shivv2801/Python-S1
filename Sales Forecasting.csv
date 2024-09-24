@@ -1,0 +1,13 @@
+Month,Revenue ($),Courses Sold,Avg. Price per Course ($),Popular Courses
+January,"900,000","23,500",38.3,"Data Science Bootcamp, Python for Beginners"
+February,"750,000","19,000",39.47,"Excel Mastery, Leadership Skills Training"
+March,"1,000,000","25,600",39.06,"Digital Marketing Mastery, JavaScript Fundamentals"
+April,"950,000","24,000",39.58,"Graphic Design Essentials, Advanced SQL"
+May,"1,050,000","26,500",39.62,"Project Management Fundamentals, UX/UI Design"
+June,"1,200,000","30,500",39.34,"Full Stack Web Development, Productivity & Time Management"
+July,"1,100,000","28,500",38.6,"Cybersecurity Basics, Public Speaking Skills"
+August,"1,250,000","32,000",39.06,"Python for Beginners, Digital Marketing Mastery"
+September,"1,150,000","29,500",38.98,"Leadership Skills Training, Advanced Excel"
+October,"1,300,000","33,500",38.81,"Data Science Bootcamp, Graphic Design Essentials"
+November,"1,800,000","46,000",39.13,"Machine Learning with Python, Data Science Bootcamp"
+December,"1,250,000","32,000",39.06,"Productivity & Time Management, JavaScript Fundamentals"
